@@ -1,9 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Webspage consists of a Form where the user can fill their details and upload the picture. 
+Once the submission is succesfull, the user is redirected to a Thank You Page.
 
-Things you may want to cover:
+Setting up the Project:
 
 * Ruby version
 
